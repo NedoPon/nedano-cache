@@ -1,8 +1,8 @@
 [
  {
   "region": "CIS",
-  "cdnUrl": "https://nedano-mod-emse.zai-ai.site/",
-  "cdnBackupUrl": "https://nedano-mod-emse.zai-ai.site/",
+  "cdnUrl": "https://huggingface.co/Nezadanoxex/nedano-cache/resolve/main/",
+  "cdnBackupUrl": "https://huggingface.co/Nezadanoxex/nedano-cache/resolve/main/",
   "donateUrl": "https://blackrussia.online/",
   "donate2ApiUrl": "https://verify-payment.blackrussia.online/",
   "paymentMarketVerificationUrl": "https://verify-payment.blackrussia.online/",
@@ -27,8 +27,8 @@
  },
  {
   "region": "WORLD",
-  "cdnUrl": "https://dl.black-russia.com/",
-  "cdnBackupUrl": "https://dl.black-russia.com/",
+  "cdnUrl": "https://huggingface.co/Nezadanoxex/nedano-cache/resolve/main/",
+  "cdnBackupUrl": "https://huggingface.co/Nezadanoxex/nedano-cache/resolve/main/",
   "donateUrl": "https://black-russia.com/",
   "donate2ApiUrl": "https://verify-pay.black-russia.com/",
   "paymentMarketVerificationUrl": "https://verify-pay.black-russia.com/",
