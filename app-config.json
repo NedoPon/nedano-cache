@@ -1,0 +1,39 @@
+{
+ "siteVersionForP1": 0,
+ "marketVersionForP1": 0,
+ "rustoreVersionForP1": 0,
+ "iosVersionForP1": 0,
+ "features": {
+  "auth2": {
+   "enable": [
+    {
+     "when": {
+      "platformBuild": [
+       "Debug",
+       "QA",
+       "Cbt3"
+      ]
+     },
+     "value": true
+    },
+    false
+   ],
+   "allowGuest": true,
+   "guestServer": [
+    {
+     "when": {
+      "platformBuild": "QA"
+     },
+     "value": 336
+    },
+    209
+   ]
+  },
+  "snow": {
+   "enable": false
+  }
+ },
+ "version_android": 1597,
+ "version_android_rustore": 1597,
+ "released_version_android": 1597
+}
