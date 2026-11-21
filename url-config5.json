@@ -1,8 +1,8 @@
 [
  {
   "region": "CIS",
-  "cdnUrl": "https://huggingface.co/api/resolve-cache/models/Nezadanoxex/nedano-cache/73ace8e865d07d61a949b2b8e0ab631f0bec999e/",
-  "cdnBackupUrl": "https://huggingface.co/api/resolve-cache/models/Nezadanoxex/nedano-cache/73ace8e865d07d61a949b2b8e0ab631f0bec999e/",
+  "cdnUrl": "https://huggingface.co/api/resolve-cache/models/Nezadanoxex/nedano-cache/76a0d84fe42ab3c7b55cf6b8528f624420030ebf/",
+  "cdnBackupUrl": "https://huggingface.co/api/resolve-cache/models/Nezadanoxex/nedano-cache/76a0d84fe42ab3c7b55cf6b8528f624420030ebf/",
   "donateUrl": "https://blackrussia.online/",
   "donate2ApiUrl": "https://verify-payment.blackrussia.online/",
   "paymentMarketVerificationUrl": "https://verify-payment.blackrussia.online/",
@@ -27,8 +27,8 @@
  },
  {
   "region": "WORLD",
-  "cdnUrl": "https://huggingface.co/api/resolve-cache/models/Nezadanoxex/nedano-cache/73ace8e865d07d61a949b2b8e0ab631f0bec999e/",
-  "cdnBackupUrl": "https://huggingface.co/api/resolve-cache/models/Nezadanoxex/nedano-cache/73ace8e865d07d61a949b2b8e0ab631f0bec999e/",
+  "cdnUrl": "https://huggingface.co/api/resolve-cache/models/Nezadanoxex/nedano-cache/76a0d84fe42ab3c7b55cf6b8528f624420030ebf/",
+  "cdnBackupUrl": "https://huggingface.co/api/resolve-cache/models/Nezadanoxex/nedano-cache/76a0d84fe42ab3c7b55cf6b8528f624420030ebf/",
   "donateUrl": "https://black-russia.com/",
   "donate2ApiUrl": "https://verify-pay.black-russia.com/",
   "paymentMarketVerificationUrl": "https://verify-pay.black-russia.com/",
