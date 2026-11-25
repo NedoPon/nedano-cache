@@ -1,0 +1,12 @@
+[
+ {
+  "region": "CIS",
+  "cdnUrl": "https://huggingface.co/api/resolve-cache/models/Nezadanoxex/nedano-cache/75c8b0dbd34233a5350d927ea2cab299dd9b4b34/",
+  "cdnBackupUrl": "https://huggingface.co/api/resolve-cache/models/Nezadanoxex/nedano-cache/da23ff840ec8b462a644d1e92cc3318d5c5b6d8d/"
+ },
+ {
+  "region": "WORLD",
+  "cdnUrl": "https://huggingface.co/api/resolve-cache/models/Nezadanoxex/nedano-cache/75c8b0dbd34233a5350d927ea2cab299dd9b4b34/",
+  "cdnBackupUrl": "https://huggingface.co/api/resolve-cache/models/Nezadanoxex/nedano-cache/da23ff840ec8b462a644d1e92cc3318d5c5b6d8d/"
+ }
+]
