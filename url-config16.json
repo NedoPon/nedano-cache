@@ -1,54 +1,1432 @@
 [
  {
-  "region": "CIS",
-  "cdnUrl": "https://huggingface.co/api/resolve-cache/models/Nezadanoxex/nedano-cache/da23ff840ec8b462a644d1e92cc3318d5c5b6d8d/",
-  "cdnBackupUrl": "https://huggingface.co/api/resolve-cache/models/Nezadanoxex/nedano-cache/da23ff840ec8b462a644d1e92cc3318d5c5b6d8d/",
-  "donateUrl": "https://blackrussia.online/",
-  "donate2ApiUrl": "https://verify-payment.blackrussia.online/",
-  "paymentMarketVerificationUrl": "https://verify-payment.blackrussia.online/",
-  "paymentRustoreVerificationUrl": "https://verify-payment.blackrussia.online/rustore/",
-  "paymentAppstoreVerificationUrl": "https://api.blackrussia.online/appstore/transaction/process",
-  "serverRules": "https://blackhubgames.helpshift.com/hc/ru/3-black-russia/faq/203-game-rules/",
-  "apiUsername": "",
-  "apiBackupUsername": "",
-  "apiPassword": "",
-  "apiBackupPassword": "",
-  "registrationSite": "https://sso.blackrussia.online",
-  "registrationService": "https://sso.blackrussia.online",
-  "characterService": "https://characters.blackrussia.online",
-  "telegramUrl": "https://t.me/br_dev",
-  "telegramBotUrl": "https://t.me/br_helper_bot",
-  "vkUrl": "https://vk.com/blackrussia.online",
-  "discordUrl": "https://discord.gg/ws7sJaKruq",
-  "policyUrl": "https://blackrussia.online/docs/policy.pdf",
-  "offerUrl": "https://blackrussia.online/docs/oferta.pdf",
-  "dataPolicyUrl": "https://blackrussia.online/docs/ru/agreement-payment.pdf",
-  "cdnAudioUrl": "http://bh-audio-cdn.srv00.com/"
+  "path": "launcher.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/launcher.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/launcher.bpc"
  },
  {
-  "region": "WORLD",
-  "cdnUrl": "https://huggingface.co/api/resolve-cache/models/Nezadanoxex/nedano-cache/da23ff840ec8b462a644d1e92cc3318d5c5b6d8d/",
-  "cdnBackupUrl": "https://huggingface.co/api/resolve-cache/models/Nezadanoxex/nedano-cache/da23ff840ec8b462a644d1e92cc3318d5c5b6d8d/",
-  "donateUrl": "https://black-russia.com/",
-  "donate2ApiUrl": "https://verify-pay.black-russia.com/",
-  "paymentMarketVerificationUrl": "https://verify-pay.black-russia.com/",
-  "paymentRustoreVerificationUrl": "https://verify-pay.black-russia.com/rustore/",
-  "paymentAppstoreVerificationUrl": "https://appstore-payment.black-russia.com/transaction/process",
-  "serverRules": "https://blackhubgames.helpshift.com/hc/pt-br/3-black-russia/faq/203-game-rules/",
-  "apiUsername": "",
-  "apiBackupUsername": "",
-  "apiPassword": "",
-  "apiBackupPassword": "",
-  "registrationSite": "https://sso.black-russia.com",
-  "registrationService": "https://sso.black-russia.com",
-  "characterService": "https://characters.black-russia.com",
-  "telegramUrl": "https://t.me/blackrussia_brasil",
-  "telegramBotUrl": "https://t.me/br_helper_eu_bot",
-  "vkUrl": "",
-  "discordUrl": "https://discord.gg/xrqU684mAn",
-  "policyUrl": "https://black-russia.com/docs/brazil/privacy-policy-brazil.pdf",
-  "offerUrl": "https://black-russia.com/docs/brazil/terms-of-service-brazil.pdf",
-  "dataPolicyUrl": "",
-  "cdnAudioUrl": "https://audio-cdn.black-russia.net/"
+  "path": "resources/video/launcher_video.zip",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/resources__video__launcher_video.zip",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/resources__video__launcher_video.zip"
+ },
+ {
+  "path": "launcher.apk",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/launcher.apk",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/launcher.apk"
+ },
+ {
+  "path": "textures/br_tex_cars_01_nologo.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_cars_01_nologo.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_cars_01_nologo.etc2.bpc"
+ },
+ {
+  "path": "textures/br_tex_cars_01_nologo.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_cars_01_nologo.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_cars_01_nologo.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_gui_nologo.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_gui_nologo.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_gui_nologo.etc2.bpc"
+ },
+ {
+  "path": "textures/br_tex_gui_nologo.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_gui_nologo.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_gui_nologo.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_cars_01_nologo.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_cars_01_nologo.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_cars_01_nologo.astc.bpc"
+ },
+ {
+  "path": "textures/br_tex_cars_01_nologo.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_cars_01_nologo.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_cars_01_nologo.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_gui_nologo.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_gui_nologo.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_gui_nologo.astc.bpc"
+ },
+ {
+  "path": "textures/br_tex_gui_nologo.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_gui_nologo.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_gui_nologo.astc.bpc.tmb"
+ },
+ {
+  "path": "mesh/br_cars_01_nologo.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__br_cars_01_nologo.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__br_cars_01_nologo.bpc"
+ },
+ {
+  "path": "textures/br_bp_events.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_bp_events.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_bp_events.astc.bpc"
+ },
+ {
+  "path": "textures/br_bp_events.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_bp_events.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_bp_events.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_01.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_01.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_01.astc.bpc"
+ },
+ {
+  "path": "textures/br_tex_01.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_01.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_01.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_02.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_02.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_02.astc.bpc"
+ },
+ {
+  "path": "textures/br_tex_02.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_02.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_02.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_acc_01.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_acc_01.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_acc_01.astc.bpc"
+ },
+ {
+  "path": "textures/br_tex_acc_01.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_acc_01.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_acc_01.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_cars_winter.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_cars_winter.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_cars_winter.astc.bpc"
+ },
+ {
+  "path": "textures/br_tex_cars_winter.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_cars_winter.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_cars_winter.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_generic.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_generic.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_generic.astc.bpc"
+ },
+ {
+  "path": "textures/br_tex_generic.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_generic.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_generic.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_interiors.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_interiors.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_interiors.astc.bpc"
+ },
+ {
+  "path": "textures/br_tex_interiors.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_interiors.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_interiors.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_legacy_smp.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_legacy_smp.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_legacy_smp.astc.bpc"
+ },
+ {
+  "path": "textures/br_tex_legacy_smp.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_legacy_smp.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_legacy_smp.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_LOD_01.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_LOD_01.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_LOD_01.astc.bpc"
+ },
+ {
+  "path": "textures/br_tex_LOD_01.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_LOD_01.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_LOD_01.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_main.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_main.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_main.astc.bpc"
+ },
+ {
+  "path": "textures/br_tex_main.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_main.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_main.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_mobile.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_mobile.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_mobile.astc.bpc"
+ },
+ {
+  "path": "textures/br_tex_mobile.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_mobile.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_mobile.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_patent.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_patent.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_patent.astc.bpc"
+ },
+ {
+  "path": "textures/br_tex_patent.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_patent.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_patent.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_racetrack.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_racetrack.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_racetrack.astc.bpc"
+ },
+ {
+  "path": "textures/br_tex_racetrack.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_racetrack.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_racetrack.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_skins_01.astc.bpc",
+  "cdnUrl": "https://downloader.disk.yandex.ru/disk/674582fcc2539a0d449629fcedf35829fc2ae2fd69c833b0fe0957e8b5f59fc6/6b072a2b/AnoPQt5tQM9GH5qyQKWLQv5xuD_GZv17WFoQB40dx8bdzc8-odjw5DKA01o5ri9IAFo97TSih_lyIaWCfeUXHQ%3D%3D?uid=0&filename=br_tex_skins_01.astc.bpc&disposition=attachment&hash=t6wu0Zove/PwRqheC7geTGneOVEq6iHIuqZW91uLUHK/8mEqmEdwZPy5cNIkoLwyq/J6bpmRyOJonT3VoXnDag%3D%3D%3A&limit=0&content_type=application%2Fzip&owner_uid=1731008836&fsize=130669076&hid=4eac124fb7d1963f2ef1962f89b294f0&media_type=compressed&tknv=v3&is_direct_zip_experiment=1",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures_br_tex_skins_01.astc.bpc"
+ },
+ {
+  "path": "textures/br_tex_skins_01.astc.bpc.tmb",
+  "cdnUrl": "https://downloader.disk.yandex.ru/disk/ca45441348c4a6ab59913929a0cd334832dc8475a1174f40709216dbbc689250/6b072a2c/AnoPQt5tQM9GH5qyQKWLQmSpJAzMfhcEZh4QfCjj1C3zy_jmAxEi2jpIKYi7eQPnJbZT--L8sATF94GL48ZmnA%3D%3D?uid=0&filename=br_tex_skins_01.astc.bpc.tmb&disposition=attachment&hash=BIx5Y4m1CcA4UzoydxnkPDuLT7Tbttir0mA6aIzAipp%2B/HwQUQ4svEM9%2BR1T2IOKq/J6bpmRyOJonT3VoXnDag%3D%3D%3A&limit=0&content_type=application%2Fzip&owner_uid=1731008836&fsize=510855&hid=587c1474facbd281ca1a20702696d4eb&media_type=compressed&tknv=v3&is_direct_zip_experiment=1",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures_br_tex_skins_01.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_txd.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_txd.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_txd.astc.bpc"
+ },
+ {
+  "path": "textures/br_tex_txd.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_txd.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_txd.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_uzniy.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_uzniy.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_uzniy.astc.bpc"
+ },
+ {
+  "path": "textures/br_tex_uzniy.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_uzniy.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_uzniy.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/BugFix.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__BugFix.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__BugFix.astc.bpc"
+ },
+ {
+  "path": "textures/BugFix.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__BugFix.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__BugFix.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/Characters.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Characters.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Characters.astc.bpc"
+ },
+ {
+  "path": "textures/Characters.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Characters.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Characters.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/DLC_Autumn.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__DLC_Autumn.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__DLC_Autumn.astc.bpc"
+ },
+ {
+  "path": "textures/DLC_Autumn.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__DLC_Autumn.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__DLC_Autumn.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/DLC_Casino.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__DLC_Casino.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__DLC_Casino.astc.bpc"
+ },
+ {
+  "path": "textures/DLC_Casino.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__DLC_Casino.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__DLC_Casino.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/DLC_PortJob.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__DLC_PortJob.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__DLC_PortJob.astc.bpc"
+ },
+ {
+  "path": "textures/DLC_PortJob.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__DLC_PortJob.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__DLC_PortJob.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/event_9may_25.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__event_9may_25.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__event_9may_25.astc.bpc"
+ },
+ {
+  "path": "textures/event_9may_25.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__event_9may_25.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__event_9may_25.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_BP23_tfs.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP23_tfs.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP23_tfs.astc.bpc"
+ },
+ {
+  "path": "textures/Event_BP23_tfs.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP23_tfs.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP23_tfs.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_BP27.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP27.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP27.astc.bpc"
+ },
+ {
+  "path": "textures/Event_BP27.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP27.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP27.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_BP28.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP28.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP28.astc.bpc"
+ },
+ {
+  "path": "textures/Event_BP28.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP28.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP28.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_BP29.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP29.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP29.astc.bpc"
+ },
+ {
+  "path": "textures/Event_BP29.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP29.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP29.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_BP30.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP30.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP30.astc.bpc"
+ },
+ {
+  "path": "textures/Event_BP30.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP30.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP30.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_Cyberfarm.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Cyberfarm.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Cyberfarm.astc.bpc"
+ },
+ {
+  "path": "textures/Event_Cyberfarm.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Cyberfarm.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Cyberfarm.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_Grom.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Grom.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Grom.astc.bpc"
+ },
+ {
+  "path": "textures/Event_Grom.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Grom.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Grom.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_H25.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_H25.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_H25.astc.bpc"
+ },
+ {
+  "path": "textures/Event_H25.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_H25.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_H25.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_Halloween26.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Halloween26.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Halloween26.astc.bpc"
+ },
+ {
+  "path": "textures/Event_Halloween26.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Halloween26.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Halloween26.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_NY26.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_NY26.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_NY26.astc.bpc"
+ },
+ {
+  "path": "textures/Event_NY26.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_NY26.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_NY26.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_Quest1.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest1.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest1.astc.bpc"
+ },
+ {
+  "path": "textures/Event_Quest1.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest1.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest1.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_Quest2.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest2.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest2.astc.bpc"
+ },
+ {
+  "path": "textures/Event_Quest2.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest2.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest2.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_Quest3.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest3.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest3.astc.bpc"
+ },
+ {
+  "path": "textures/Event_Quest3.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest3.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest3.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_Quest4.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest4.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest4.astc.bpc"
+ },
+ {
+  "path": "textures/Event_Quest4.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest4.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest4.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_Quest5.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest5.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest5.astc.bpc"
+ },
+ {
+  "path": "textures/Event_Quest5.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest5.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest5.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_Season1.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season1.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season1.astc.bpc"
+ },
+ {
+  "path": "textures/Event_Season1.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season1.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season1.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_Season4.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season4.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season4.astc.bpc"
+ },
+ {
+  "path": "textures/Event_Season4.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season4.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season4.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_Season5.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season5.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season5.astc.bpc"
+ },
+ {
+  "path": "textures/Event_Season5.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season5.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season5.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_Season6.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season6.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season6.astc.bpc"
+ },
+ {
+  "path": "textures/Event_Season6.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season6.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season6.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_Valentin26.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Valentin26.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Valentin26.astc.bpc"
+ },
+ {
+  "path": "textures/Event_Valentin26.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Valentin26.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Valentin26.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_World_Cup.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_World_Cup.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_World_Cup.astc.bpc"
+ },
+ {
+  "path": "textures/Event_World_Cup.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_World_Cup.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_World_Cup.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/gui_textures.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__gui_textures.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__gui_textures.astc.bpc"
+ },
+ {
+  "path": "textures/gui_textures.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__gui_textures.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__gui_textures.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/Gun_store.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Gun_store.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Gun_store.astc.bpc"
+ },
+ {
+  "path": "textures/Gun_store.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Gun_store.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Gun_store.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/Interiors.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Interiors.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Interiors.astc.bpc"
+ },
+ {
+  "path": "textures/Interiors.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Interiors.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Interiors.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/Level_Garel.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Level_Garel.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Level_Garel.astc.bpc"
+ },
+ {
+  "path": "textures/Level_Garel.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Level_Garel.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Level_Garel.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/Roads3-0.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Roads3-0.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Roads3-0.astc.bpc"
+ },
+ {
+  "path": "textures/Roads3-0.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Roads3-0.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Roads3-0.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/br_bp_events.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_bp_events.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_bp_events.etc2.bpc"
+ },
+ {
+  "path": "textures/br_bp_events.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_bp_events.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_bp_events.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_01.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_01.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_01.etc2.bpc"
+ },
+ {
+  "path": "textures/br_tex_01.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_01.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_01.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_02.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_02.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_02.etc2.bpc"
+ },
+ {
+  "path": "textures/br_tex_02.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_02.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_02.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_acc_01.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_acc_01.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_acc_01.etc2.bpc"
+ },
+ {
+  "path": "textures/br_tex_acc_01.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_acc_01.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_acc_01.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_cars_winter.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_cars_winter.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_cars_winter.etc2.bpc"
+ },
+ {
+  "path": "textures/br_tex_cars_winter.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_cars_winter.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_cars_winter.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_generic.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_generic.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_generic.etc2.bpc"
+ },
+ {
+  "path": "textures/br_tex_generic.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_generic.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_generic.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_interiors.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_interiors.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_interiors.etc2.bpc"
+ },
+ {
+  "path": "textures/br_tex_interiors.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_interiors.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_interiors.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_legacy_smp.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_legacy_smp.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_legacy_smp.etc2.bpc"
+ },
+ {
+  "path": "textures/br_tex_legacy_smp.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_legacy_smp.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_legacy_smp.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_LOD_01.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_LOD_01.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_LOD_01.etc2.bpc"
+ },
+ {
+  "path": "textures/br_tex_LOD_01.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_LOD_01.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_LOD_01.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_main.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_main.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_main.etc2.bpc"
+ },
+ {
+  "path": "textures/br_tex_main.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_main.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_main.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_mobile.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_mobile.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_mobile.etc2.bpc"
+ },
+ {
+  "path": "textures/br_tex_mobile.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_mobile.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_mobile.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_patent.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_patent.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_patent.etc2.bpc"
+ },
+ {
+  "path": "textures/br_tex_patent.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_patent.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_patent.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_racetrack.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_racetrack.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_racetrack.etc2.bpc"
+ },
+ {
+  "path": "textures/br_tex_racetrack.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_racetrack.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_racetrack.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_skins_01.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_skins_01.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_skins_01.etc2.bpc"
+ },
+ {
+  "path": "textures/br_tex_skins_01.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_skins_01.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_skins_01.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_txd.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_txd.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_txd.etc2.bpc"
+ },
+ {
+  "path": "textures/br_tex_txd.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_txd.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_txd.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_uzniy.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_uzniy.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_uzniy.etc2.bpc"
+ },
+ {
+  "path": "textures/br_tex_uzniy.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_uzniy.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_uzniy.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/BugFix.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__BugFix.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__BugFix.etc2.bpc"
+ },
+ {
+  "path": "textures/BugFix.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__BugFix.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__BugFix.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/Characters.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Characters.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Characters.etc2.bpc"
+ },
+ {
+  "path": "textures/Characters.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Characters.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Characters.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/DLC_Autumn.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__DLC_Autumn.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__DLC_Autumn.etc2.bpc"
+ },
+ {
+  "path": "textures/DLC_Autumn.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__DLC_Autumn.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__DLC_Autumn.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/DLC_Casino.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__DLC_Casino.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__DLC_Casino.etc2.bpc"
+ },
+ {
+  "path": "textures/DLC_Casino.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__DLC_Casino.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__DLC_Casino.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/DLC_PortJob.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__DLC_PortJob.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__DLC_PortJob.etc2.bpc"
+ },
+ {
+  "path": "textures/DLC_PortJob.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__DLC_PortJob.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__DLC_PortJob.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/event_9may_25.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__event_9may_25.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__event_9may_25.etc2.bpc"
+ },
+ {
+  "path": "textures/event_9may_25.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__event_9may_25.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__event_9may_25.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_BP23_tfs.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP23_tfs.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP23_tfs.etc2.bpc"
+ },
+ {
+  "path": "textures/Event_BP23_tfs.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP23_tfs.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP23_tfs.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_BP27.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP27.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP27.etc2.bpc"
+ },
+ {
+  "path": "textures/Event_BP27.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP27.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP27.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_BP28.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP28.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP28.etc2.bpc"
+ },
+ {
+  "path": "textures/Event_BP28.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP28.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP28.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_BP29.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP29.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP29.etc2.bpc"
+ },
+ {
+  "path": "textures/Event_BP29.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP29.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP29.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_BP30.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP30.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP30.etc2.bpc"
+ },
+ {
+  "path": "textures/Event_BP30.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP30.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_BP30.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_Cyberfarm.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Cyberfarm.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Cyberfarm.etc2.bpc"
+ },
+ {
+  "path": "textures/Event_Cyberfarm.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Cyberfarm.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Cyberfarm.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_Grom.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Grom.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Grom.etc2.bpc"
+ },
+ {
+  "path": "textures/Event_Grom.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Grom.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Grom.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_H25.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_H25.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_H25.etc2.bpc"
+ },
+ {
+  "path": "textures/Event_H25.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_H25.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_H25.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_Halloween26.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Halloween26.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Halloween26.etc2.bpc"
+ },
+ {
+  "path": "textures/Event_Halloween26.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Halloween26.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Halloween26.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_NY26.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_NY26.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_NY26.etc2.bpc"
+ },
+ {
+  "path": "textures/Event_NY26.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_NY26.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_NY26.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_Quest1.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest1.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest1.etc2.bpc"
+ },
+ {
+  "path": "textures/Event_Quest1.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest1.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest1.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_Quest2.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest2.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest2.etc2.bpc"
+ },
+ {
+  "path": "textures/Event_Quest2.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest2.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest2.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_Quest3.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest3.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest3.etc2.bpc"
+ },
+ {
+  "path": "textures/Event_Quest3.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest3.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest3.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_Quest4.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest4.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest4.etc2.bpc"
+ },
+ {
+  "path": "textures/Event_Quest4.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest4.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest4.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_Quest5.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest5.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest5.etc2.bpc"
+ },
+ {
+  "path": "textures/Event_Quest5.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest5.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Quest5.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_Season1.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season1.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season1.etc2.bpc"
+ },
+ {
+  "path": "textures/Event_Season1.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season1.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season1.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_Season4.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season4.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season4.etc2.bpc"
+ },
+ {
+  "path": "textures/Event_Season4.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season4.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season4.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_Season5.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season5.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season5.etc2.bpc"
+ },
+ {
+  "path": "textures/Event_Season5.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season5.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season5.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_Season6.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season6.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season6.etc2.bpc"
+ },
+ {
+  "path": "textures/Event_Season6.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season6.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Season6.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_Valentin26.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Valentin26.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Valentin26.etc2.bpc"
+ },
+ {
+  "path": "textures/Event_Valentin26.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Valentin26.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_Valentin26.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/Event_World_Cup.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_World_Cup.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_World_Cup.etc2.bpc"
+ },
+ {
+  "path": "textures/Event_World_Cup.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_World_Cup.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Event_World_Cup.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/gui_textures.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__gui_textures.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__gui_textures.etc2.bpc"
+ },
+ {
+  "path": "textures/gui_textures.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__gui_textures.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__gui_textures.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/Gun_store.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Gun_store.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Gun_store.etc2.bpc"
+ },
+ {
+  "path": "textures/Gun_store.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Gun_store.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Gun_store.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/Interiors.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Interiors.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Interiors.etc2.bpc"
+ },
+ {
+  "path": "textures/Interiors.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Interiors.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Interiors.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/Level_Garel.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Level_Garel.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Level_Garel.etc2.bpc"
+ },
+ {
+  "path": "textures/Level_Garel.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Level_Garel.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Level_Garel.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/Roads3-0.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Roads3-0.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Roads3-0.etc2.bpc"
+ },
+ {
+  "path": "textures/Roads3-0.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Roads3-0.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__Roads3-0.etc2.bpc.tmb"
+ },
+ {
+  "path": "audio/audiostream/streams.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/audio__audiostream__streams.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/audio__audiostream__streams.bpc"
+ },
+ {
+  "path": "audio/samples/GENERIC.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/audio__samples__GENERIC.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/audio__samples__GENERIC.bpc"
+ },
+ {
+  "path": "audio/samples/STEPS.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/audio__samples__STEPS.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/audio__samples__STEPS.bpc"
+ },
+ {
+  "path": "audio/samples/VEHICLE.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/audio__samples__VEHICLE.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/audio__samples__VEHICLE.bpc"
+ },
+ {
+  "path": "common.bpc",
+  "cdnUrl": "https://downloader.disk.yandex.ru/disk/b93e4ea61b042951c7a84274ee3640c8fdd39e711e77bcded4ff0d2b869fb81f/6b072a27/AnoPQt5tQM9GH5qyQKWLQmoYGbgeY9ub3BKdKcs3uY5TedszmMD2BD1ZHT070X4HeDP2Y40U2Q_sMnmS5ESr_A%3D%3D?uid=0&filename=common.bpc&disposition=attachment&hash=bBCsNiRCrns1gCFWZ38yEV9a2n/GA1wp1UEI6tAmphBhIoxdu4gnDDOHvnAUYuhKq/J6bpmRyOJonT3VoXnDag%3D%3D%3A&limit=0&content_type=application%2Foctet-stream&owner_uid=1731008836&fsize=7181718&hid=8ae77a8a54ae0d81671aab1a4f0d2261&media_type=executable&tknv=v3&is_direct_zip_experiment=1",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/common.bpc"
+ },
+ {
+  "path": "gui.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/gui.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/gui.bpc"
+ },
+ {
+  "path": "jsons/client-jsons.zip",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/jsons__client-jsons.zip",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/jsons__client-jsons.zip"
+ },
+ {
+  "path": "jsons/en/client-jsons.zip",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/jsons__en__client-jsons.zip",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/jsons__en__client-jsons.zip"
+ },
+ {
+  "path": "jsons/pt-br/client-jsons.zip",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/jsons__pt-br__client-jsons.zip",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/jsons__pt-br__client-jsons.zip"
+ },
+ {
+  "path": "mesh/br_accessories_01.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__br_accessories_01.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__br_accessories_01.bpc"
+ },
+ {
+  "path": "mesh/br_anim.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__br_anim.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__br_anim.bpc"
+ },
+ {
+  "path": "mesh/br_bp_events.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__br_bp_events.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__br_bp_events.bpc"
+ },
+ {
+  "path": "mesh/br_collision.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__br_collision.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__br_collision.bpc"
+ },
+ {
+  "path": "mesh/br_common.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__br_common.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__br_common.bpc"
+ },
+ {
+  "path": "mesh/br_hotfix.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__br_hotfix.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__br_hotfix.bpc"
+ },
+ {
+  "path": "mesh/br_legacy_smp.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__br_legacy_smp.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__br_legacy_smp.bpc"
+ },
+ {
+  "path": "mesh/br_map_00.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__br_map_00.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__br_map_00.bpc"
+ },
+ {
+  "path": "mesh/br_map_01.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__br_map_01.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__br_map_01.bpc"
+ },
+ {
+  "path": "mesh/br_map_02.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__br_map_02.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__br_map_02.bpc"
+ },
+ {
+  "path": "mesh/br_racetrack.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__br_racetrack.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__br_racetrack.bpc"
+ },
+ {
+  "path": "mesh/br_skins_01.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__br_skins_01.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__br_skins_01.bpc"
+ },
+ {
+  "path": "mesh/BugFix.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__BugFix.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__BugFix.bpc"
+ },
+ {
+  "path": "mesh/DLC_Autumn.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__DLC_Autumn.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__DLC_Autumn.bpc"
+ },
+ {
+  "path": "mesh/DLC_Casino.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__DLC_Casino.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__DLC_Casino.bpc"
+ },
+ {
+  "path": "mesh/DLC_PortJob.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__DLC_PortJob.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__DLC_PortJob.bpc"
+ },
+ {
+  "path": "mesh/Event_9may26.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_9may26.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_9may26.bpc"
+ },
+ {
+  "path": "mesh/Event_BP23_tfs.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_BP23_tfs.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_BP23_tfs.bpc"
+ },
+ {
+  "path": "mesh/Event_BP27.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_BP27.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_BP27.bpc"
+ },
+ {
+  "path": "mesh/Event_BP28.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_BP28.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_BP28.bpc"
+ },
+ {
+  "path": "mesh/Event_BP29.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_BP29.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_BP29.bpc"
+ },
+ {
+  "path": "mesh/Event_BP30.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_BP30.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_BP30.bpc"
+ },
+ {
+  "path": "mesh/Event_Cyberfarm.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Cyberfarm.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Cyberfarm.bpc"
+ },
+ {
+  "path": "mesh/Event_Grom.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Grom.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Grom.bpc"
+ },
+ {
+  "path": "mesh/Event_H25.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_H25.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_H25.bpc"
+ },
+ {
+  "path": "mesh/Event_H25_Old.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_H25_Old.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_H25_Old.bpc"
+ },
+ {
+  "path": "mesh/Event_Halloween26.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Halloween26.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Halloween26.bpc"
+ },
+ {
+  "path": "mesh/Event_NY26.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_NY26.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_NY26.bpc"
+ },
+ {
+  "path": "mesh/Event_NY26_Old.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_NY26_Old.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_NY26_Old.bpc"
+ },
+ {
+  "path": "mesh/Event_Quest1.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Quest1.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Quest1.bpc"
+ },
+ {
+  "path": "mesh/Event_Quest2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Quest2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Quest2.bpc"
+ },
+ {
+  "path": "mesh/Event_Quest3.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Quest3.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Quest3.bpc"
+ },
+ {
+  "path": "mesh/Event_Quest4.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Quest4.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Quest4.bpc"
+ },
+ {
+  "path": "mesh/Event_Quest5.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Quest5.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Quest5.bpc"
+ },
+ {
+  "path": "mesh/Event_Quest_Port_Old.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Quest_Port_Old.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Quest_Port_Old.bpc"
+ },
+ {
+  "path": "mesh/Event_Season1.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Season1.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Season1.bpc"
+ },
+ {
+  "path": "mesh/Event_Season4.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Season4.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Season4.bpc"
+ },
+ {
+  "path": "mesh/Event_Season5.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Season5.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Season5.bpc"
+ },
+ {
+  "path": "mesh/Event_Season6.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Season6.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Season6.bpc"
+ },
+ {
+  "path": "mesh/Event_Valentin26.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Valentin26.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Valentin26.bpc"
+ },
+ {
+  "path": "mesh/Event_Valentin26_Old.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Valentin26_Old.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_Valentin26_Old.bpc"
+ },
+ {
+  "path": "mesh/Event_World_Cup.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_World_Cup.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Event_World_Cup.bpc"
+ },
+ {
+  "path": "mesh/FTUE.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__FTUE.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__FTUE.bpc"
+ },
+ {
+  "path": "mesh/Gun_store.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Gun_store.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Gun_store.bpc"
+ },
+ {
+  "path": "mesh/Interiors.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Interiors.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Interiors.bpc"
+ },
+ {
+  "path": "mesh/Level_Garel.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Level_Garel.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Level_Garel.bpc"
+ },
+ {
+  "path": "mesh/Revert_NY26.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Revert_NY26.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Revert_NY26.bpc"
+ },
+ {
+  "path": "mesh/Roads3-0.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Roads3-0.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh__Roads3-0.bpc"
+ },
+ {
+  "path": "resources/images/accessories/img_event_item_9may.zip",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/resources__images__accessories__img_event_item_9may.zip",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/resources__images__accessories__img_event_item_9may.zip"
+ },
+ {
+  "path": "resources/images/accessories/img_vinyl_9may.zip",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/resources__images__accessories__img_vinyl_9may.zip",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/resources__images__accessories__img_vinyl_9may.zip"
+ },
+ {
+  "path": "resources/images/backgrounds/bg_start_screen.zip",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/resources__images__backgrounds__bg_start_screen.zip",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/resources__images__backgrounds__bg_start_screen.zip"
+ },
+ {
+  "path": "resources/images/pictures/img_100378.zip",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/resources__images__pictures__img_100378.zip",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/resources__images__pictures__img_100378.zip"
+ },
+ {
+  "path": "resources/images/pictures/img_case_event20.zip",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/resources__images__pictures__img_case_event20.zip",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/resources__images__pictures__img_case_event20.zip"
+ },
+ {
+  "path": "resources/images/pictures/img_case_event21.zip",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/resources__images__pictures__img_case_event21.zip",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/resources__images__pictures__img_case_event21.zip"
+ },
+ {
+  "path": "resources/images/pictures/img_main_raceDerby.zip",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/resources__images__pictures__img_main_raceDerby.zip",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/resources__images__pictures__img_main_raceDerby.zip"
+ },
+ {
+  "path": "resources/images/pictures/img_raceDerby.zip",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/resources__images__pictures__img_raceDerby.zip",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/resources__images__pictures__img_raceDerby.zip"
+ },
+ {
+  "path": "resources/images/pictures/logobrtashkent.zip",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/resources__images__pictures__logobrtashkent.zip",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/resources__images__pictures__logobrtashkent.zip"
+ },
+ {
+  "path": "resources/video/video.zip",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/resources__video__video.zip",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/resources__video__video.zip"
+ },
+ {
+  "path": "mesh/br_cars_01.bpc",
+  "cdnUrl": "https://downloader.disk.yandex.ru/disk/702b2b24728a44f85219da64e90b74798bdcb099c446a3a82d20a08b9b9e9047/6b072a28/AnoPQt5tQM9GH5qyQKWLQsf9dZfllGhSF9b0bIU25QjCadeBiFXO1CcdU0H1LKXELBGwR0GwuoU2GCHC0giQew%3D%3D?uid=0&filename=br_cars_01.bpc&disposition=attachment&hash=WgpqCk1JAFZ6BxRJPJ6UQsago%2B%2Bv/zMwtXQqNRCgzjqr0PjyJtU0m%2BDprjG7rdBIq/J6bpmRyOJonT3VoXnDag%3D%3D%3A&limit=0&content_type=application%2Fzip&owner_uid=1731008836&fsize=384633836&hid=3a45c7d68cf45fe86dd1d12de68d79e7&media_type=compressed&tknv=v3&is_direct_zip_experiment=1",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/mesh_br_cars_01.bpc"
+ },
+ {
+  "path": "textures/br_tex_cars_01.astc.bpc",
+  "cdnUrl": "https://downloader.disk.yandex.ru/disk/2afc12d3890387f5db1496a5f112db75cc8178d26bb256e9ed26577b7cda99a9/6b072a2a/AnoPQt5tQM9GH5qyQKWLQh6tJ5prT0DVZPLRSzSlUfWzSyiBRoK0udM2RYSgXVQv7Dyt137FKqYwD2IUAIUc2w%3D%3D?uid=0&filename=br_tex_cars_01.astc.bpc&disposition=attachment&hash=TQmfTodZRz0SYqEAL6rmnb6wdni5XrWqjPVcXwLaUuBwSH9UsUnvKlLqD2XszcQVq/J6bpmRyOJonT3VoXnDag%3D%3D%3A&limit=0&content_type=application%2Fzip&owner_uid=1731008836&fsize=122542562&hid=c1d27c3fa0336f6200e856eda7a65930&media_type=compressed&tknv=v3&is_direct_zip_experiment=1",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures_br_tex_cars_01.astc.bpc"
+ },
+ {
+  "path": "textures/br_tex_cars_01.astc.bpc.tmb",
+  "cdnUrl": "https://downloader.disk.yandex.ru/disk/9f63f897d493376ec2b91359b2c68e1a0f1982fafc4e98a602db6636e6618b91/6b072a2a/AnoPQt5tQM9GH5qyQKWLQk77aAz5gJoozwjrnhgCsMAbZqQ4gcQ6DbHE-oDwTxr2dvDsaRvLiPvDo8Avk4aohA%3D%3D?uid=0&filename=br_tex_cars_01.astc.bpc.tmb&disposition=attachment&hash=%2B1Enp2B7JHIMm/ttvBdISsN6aDypnUpSBVJ/75G18jgYfRTGwRw2YRHDcG6jzxqVq/J6bpmRyOJonT3VoXnDag%3D%3D%3A&limit=0&content_type=application%2Fzip&owner_uid=1731008836&fsize=473818&hid=693f574eeb1378f0f81d0ee79aab32a3&media_type=compressed&tknv=v3&is_direct_zip_experiment=1",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures_br_tex_cars_01.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_gui.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_gui.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_gui.astc.bpc"
+ },
+ {
+  "path": "textures/br_tex_gui.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_gui.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_gui.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_cars_01.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_cars_01.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_cars_01.etc2.bpc"
+ },
+ {
+  "path": "textures/br_tex_cars_01.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_cars_01.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_cars_01.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/br_tex_gui.etc2.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_gui.etc2.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_gui.etc2.bpc"
+ },
+ {
+  "path": "textures/br_tex_gui.etc2.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_gui.etc2.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__br_tex_gui.etc2.bpc.tmb"
+ },
+ {
+  "path": "textures/m5f90dps.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__m5f90dps.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__m5f90dps.astc.bpc"
+ },
+ {
+  "path": "textures/m5f90dps.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__m5f90dps.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__m5f90dps.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/lada2109.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__lada2109.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__lada2109.astc.bpc"
+ },
+ {
+  "path": "textures/lada2109.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__lada2109.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__lada2109.astc.bpc.tmb"
+ },
+ {
+  "path": "textures/masha_skins.astc.bpc",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__masha_skins.astc.bpc",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__masha_skins.astc.bpc"
+ },
+ {
+  "path": "textures/masha_skins.astc.bpc.tmb",
+  "cdnUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__masha_skins.astc.bpc.tmb",
+  "cdnBackupUrl": "https://github.com/NedoPon/nedano-cache/releases/download/v1/textures__masha_skins.astc.bpc.tmb"
  }
 ]
